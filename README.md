@@ -1,4 +1,4 @@
-# hbs-cli
+# hbs-cli {#hbs-cli data-toc-label="CLI"}
 
 This is a tool to render [handlebars](http://handlebarsjs.com) templates, with the ability to require in Partials, Helpers and JSON Data.
 
